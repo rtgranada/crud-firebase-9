@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.coverProfile {
+  max-width: 150px;
+  max-height: 150px;
+  border-radius: 25px;
+}
